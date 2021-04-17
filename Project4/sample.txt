@@ -1,0 +1,4 @@
+Cateva propozitii sunt scrise mai jos.
+propozitia 1: Hello WORLD!
+propozitia 2: Demaram proiectele cu talent.
+propozitia 3: Hai cu proiectele.
